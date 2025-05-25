@@ -21,12 +21,12 @@ This should generate a `dist/` folder inside your current folder.
 
 ### Backend
 
-Go to the `app/` folder in your terminal. Run:
+Go to the `backend/` folder in your terminal. Run:
 ```
 npm install
 ```
 
-*Optional: on `app/app.js` set a different port by changing the `port` variable (by default 3000)*
+*Optional: on `backend/app.js` set a different port by changing the `port` variable (by default 3000)*
 
 And then, to run the server, execute:
 ```
@@ -95,4 +95,4 @@ Then, set the route by writing, below line 8:
 
 Now, if you run `npm run dev` on the `react/` folder and navigate (on your browster), to the `PersonName/` route, you should see the birthday card show up.
 
-Next up, you can continue the instalation just as in [[#Backend]].
+Next up, you can continue the instalation.
